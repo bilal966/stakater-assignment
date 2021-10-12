@@ -1,5 +1,10 @@
-# stakater-assignment
+# :zap: stakater-assignment
 This assignment have front-end and back-end application.Log4j2 is integrated with all modules and logback excluded.
+
+![GitHub repo size](https://img.shields.io/github/repo-size/bilal966/stakater-assignment?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/bilal966/stakater-assignment?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/bilal966/stakater-assignment?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/bilal966/stakater-assignment?style=plastic)
 
 ## Stakater Service Registery - Eureka
 - server port 8761
